@@ -4,7 +4,7 @@
 
 This project performs comprehensive data preprocessing and exploratory data analysis (EDA) on the "Electric Vehicle Population Data" dataset provided by the State of Washington. The dataset includes information about registered Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) in Washington state.
 
-##Dataset Information
+## Dataset Information
 
 - The dataset consists of 210,165 records and 17 features, capturing details such as:
 
@@ -74,13 +74,13 @@ This project performs comprehensive data preprocessing and exploratory data anal
 Clone this repository.
 
 Install required libraries:
-
+```python
 pip install pandas numpy matplotlib seaborn geopandas scikit-learn contextily
 
 Run the provided Python script:
 
 python Final_Code.py
-
+```
 ## Contributors
 
 - Ali Shaikh Qasem (ID: 1212171)
